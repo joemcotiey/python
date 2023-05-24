@@ -1,6 +1,5 @@
-Tuples are used to store multiple items in a single variable.
-
-//syntax
+#Tuples are used to store multiple items in a single variable.
+#syntax
 
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
